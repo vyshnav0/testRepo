@@ -5,4 +5,5 @@ void main(){
     print ("from arjun 2")
     print ("vys loc")
     print ("arj loc")
+    trying lock 2
 }

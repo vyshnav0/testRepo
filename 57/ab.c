@@ -7,4 +7,5 @@ void main(){
     printf("arj loc");
     // trying lock 2
     print("Time 10:40");
+    //type rmdir /s -rf .git inside testRepo-1 to remove a folder as repository from local
 }

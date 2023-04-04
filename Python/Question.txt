@@ -1,0 +1,4 @@
+Implement the following programs using class. 
+1. Write a program that uses class to store the names and marks of students and include methods like getscore, setscore, getavgscore, gethighestscore et. (Refer the notebook) 
+2. A circle class with methods area and circumference
+3. A Rectangle class with methods area.

@@ -9,7 +9,7 @@ void main()
 {
     struct sockaddr_in server, client;
     int s, sock;
-    char b1[100] = " ", b2[100] = "cs";
+    char b1[100] = " ", b2[100] = "";
     s = socket(AF_INET, SOCK_STREAM, 0);
     server.sin_family = AF_INET;
     server.sin_port = 2000;
